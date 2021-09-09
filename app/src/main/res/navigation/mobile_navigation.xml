@@ -18,8 +18,14 @@
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
+        android:id="@+id/nav_top_favourite"
         android:name="com.example.touristguideapp.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:label="@string/menu_top_favourite"
+        tools:layout="@layout/fragment_top_favourite" />
+
+    <fragment
+        android:id="@+id/nav_sharing_trips"
+        android:name="com.example.touristguideapp.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_sharing_trips"
+        tools:layout="@layout/fragment_sharing_trips" />
 </navigation>

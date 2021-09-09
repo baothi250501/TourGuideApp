@@ -2,12 +2,20 @@
     <string name="app_name">TouristGuideApp</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Tour Guide App</string>
+    <string name="nav_header_subtitle">thinguyenlebao@gmail.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_top_favourite">Top Favourite</string>
+    <string name="menu_sharing_trips">Sharing Trips</string>
+
+    <string name="gallery_asia">Asia</string>
+    <string name="gallery_australia">Australia</string>
+    <string name="gallery_africa">Africa</string>
+    <string name="gallery_europe">Europe</string>
+    <string name="gallery_north_america">Australia</string>
+    <string name="gallery_south_america">Australia</string>
 </resources>
